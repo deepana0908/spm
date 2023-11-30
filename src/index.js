@@ -5,7 +5,7 @@ import App from "./App";
 import { GithubProvider } from "./context/context";
 import { Auth0Provider } from "@auth0/auth0-react";
 
-const YOUR_AUTH0_DOMAIN = "mahesh.us.auth0.com";
+const YOUR_AUTH0_DOMAIN = "Mahesh.us.auth0.com";
 const YOUR_AUTH0_CLIENT_ID = "HBhuyA1hMFCDT3S2iiy6SrRKBPurtN4t";
 
 ReactDOM.render(
