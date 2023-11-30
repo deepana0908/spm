@@ -5,7 +5,7 @@
 ## Project Summary
 **Title**: GitHub Analytics Dashboard  
 **Duration**: August 21, 2023 - December 16, 2023  
-**Team Members**: Jung Jun Kim, Sudipta Banerjee, Xianhe Zheng, Chufeng Huang
+**Team Members**: MANIKANTA DEVAVARAPU , SAI SARANYA ALMURI, DEEPANA ALLURI
 
 ## Purpose, Scope, and Objectives
 
