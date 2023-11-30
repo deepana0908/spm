@@ -92,10 +92,10 @@ Please note that the dashboard is read-only and does not allow modifications to 
 
 
 ## Team members
-- PM: Chufeng Huang
-- LD: Sudipta Banerjee
-- UI/UX: Jung Jun Kim
-- QA: Xianhe Zheng
+- PM: SAI SARANYA ALMURI
+- SD1: MANIKANTA DEVAVARAPU
+- SD2: DEEPANA ALLURI
+- QA: MANIKANTA DEVAVARAPU
 
 ## Contributing
 Contributions are welcome. Please read the contribution guidelines before submitting a pull request.
